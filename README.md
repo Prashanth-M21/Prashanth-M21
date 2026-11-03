@@ -7,6 +7,7 @@
 Building practical projects with **AI, Machine Learning, Data Science, and Python**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Prashanth--M21-181717?style=for-the-badge&logo=github)](https://github.com/Prashanth-M21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-m-4082963b5/)
 [![Repositories](https://img.shields.io/badge/Explore-My%20Repositories-2ea44f?style=for-the-badge&logo=github)](https://github.com/Prashanth-M21?tab=repositories)
 
 </div>
@@ -119,6 +120,9 @@ Building practical projects with **AI, Machine Learning, Data Science, and Pytho
 <div align="center">
   <a href="https://github.com/Prashanth-M21">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/prashanth-m-4082963b5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
